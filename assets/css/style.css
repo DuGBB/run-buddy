@@ -65,8 +65,17 @@ footer div {
 
 footer a {
     color: #024e76;
-}
-
+}/*
+footer div h2 {
+        text-align: left;
+        background-color: #ff0000;
+        float: left;
+    }
+    
+    footer p {
+        color: #39a6b2;
+        background-color:#00ff00;
+    }*/
 section {
     padding: 60px;
 }
@@ -280,3 +289,5 @@ section {
 }
 
 /* REACH OUT STYLES END */
+/*
+
