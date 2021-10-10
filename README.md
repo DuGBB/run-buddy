@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy, Inc
 
 ## Purpose
 Awebsite that offers fitness training services.
@@ -12,3 +12,5 @@ https://lernantino.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Donald Biggers
+
+## &copy Run Buddy, Inc
