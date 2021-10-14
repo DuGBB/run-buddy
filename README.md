@@ -13,4 +13,4 @@ https://lernantino.io/run-buddy/
 ## Contribution
 Made with ❤️  by Donald Biggers
 
-## &copy Run Buddy, Inc
+##  (c)Run Buddy, Inc
