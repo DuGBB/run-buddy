@@ -8,7 +8,7 @@ Awebsite that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.io/run-buddy/
+https://DuGBB.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Donald Biggers
